@@ -5,7 +5,7 @@
   <link href="/lucifer-tears.github.io/atom.xml" rel="self"/>
   
   <link href="https://github.com/lucifer-tears/lucifer-tears.github.io/"/>
-  <updated>2016-09-22T12:11:06.904Z</updated>
+  <updated>2016-09-22T12:27:40.431Z</updated>
   <id>https://github.com/lucifer-tears/lucifer-tears.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://github.com/lucifer-tears/lucifer-tears.github.io/2016/09/22/hexo-command/"/>
     <id>https://github.com/lucifer-tears/lucifer-tears.github.io/2016/09/22/hexo-command/</id>
     <published>2016-09-22T11:55:18.000Z</published>
-    <updated>2016-09-22T12:11:06.904Z</updated>
+    <updated>2016-09-22T12:27:40.431Z</updated>
     
     <content type="html"><![CDATA[<a id="more"></a>
 <h1 id="hexo常用命令"><a href="#hexo常用命令" class="headerlink" title="hexo常用命令"></a>hexo常用命令</h1><h2 id="hexo"><a href="#hexo" class="headerlink" title="hexo"></a>hexo</h2><p>npm install hexo -g #安装<br>npm update hexo -g #升级<br>hexo init #初始化</p>
@@ -38,11 +38,16 @@
 <p>npm install hexo-deployer-git –save</p>
 <h3 id="2-部署类型设置git"><a href="#2-部署类型设置git" class="headerlink" title="2.部署类型设置git"></a>2.部署类型设置git</h3><p>hexo 3.0 部署类型不再是github，_config.yml 中修改</p>
 <p># Deployment<br>## Docs: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">http://hexo.io/docs/deployment.html</a><br>deploy:<br>  type: git<br>  repository: git@<strong><em>.github.com:</em></strong>/<em>*</em>.github.io.git<br>  branch: master</p>
-<h3 id="3-Rss不显示"><a href="#3-Rss不显示" class="headerlink" title="3.Rss不显示"></a>3.Rss不显示</h3><p>安装RSS插件</p>
-<p>npm install hexo-generator-feed –save</p>
-<p>开启RSS功能</p>
-<p>编辑hexo/_config.yml，添加如下代码：</p>
+<h3 id="3-Rss不显示"><a href="#3-Rss不显示" class="headerlink" title="3.Rss不显示"></a>3.Rss不显示</h3><h4 id="安装RSS插件"><a href="#安装RSS插件" class="headerlink" title="安装RSS插件"></a>安装RSS插件</h4><p>npm install hexo-generator-feed –save</p>
+<h4 id="开启RSS功能"><a href="#开启RSS功能" class="headerlink" title="开启RSS功能"></a>开启RSS功能</h4><p>编辑hexo/_config.yml，添加如下代码：<br># Extensions<br>Plugins:</p>
+<ul>
+<li>hexo-generator-feed</li>
+<li>hexo-generator-sitemap</li>
+</ul>
+<p>#Feed Atom<br>feed:<br>  type: atom<br>  path: atom.xml<br>  limit: 20</p>
 <p>rss: /atom.xml #rss地址  默认即可</p>
+<h4 id="升级插件"><a href="#升级插件" class="headerlink" title="升级插件"></a>升级插件</h4><p>npm update</p>
+<h4 id="卸载插件"><a href="#卸载插件" class="headerlink" title="卸载插件"></a>卸载插件</h4><p>npm uninstall hexo-generator-sitemap</p>
 <h1 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h1><p>感谢分享：<a href="https://segmentfault.com/a/1190000002632530" target="_blank" rel="external">https://segmentfault.com/a/1190000002632530</a></p>
 ]]></content>
     
