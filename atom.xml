@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>lucifer_tears</title>
+  <subtitle>初学者</subtitle>
+  <link href="/lucifer-tears.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://github.com/lucifer-tears/lucifer-tears.github.io/"/>
+  <updated>2016-09-22T08:55:01.788Z</updated>
+  <id>https://github.com/lucifer-tears/lucifer-tears.github.io/</id>
+  
+  <author>
+    <name>lkk</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>fancybox</title>
+    <link href="https://github.com/lucifer-tears/lucifer-tears.github.io/2016/09/22/fancybox/"/>
+    <id>https://github.com/lucifer-tears/lucifer-tears.github.io/2016/09/22/fancybox/</id>
+    <published>2016-09-22T08:43:02.000Z</published>
+    <updated>2016-09-22T08:55:01.788Z</updated>
+    
+    <summary type="html">
+    
+      fancybox,动态图片
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="https://github.com/lucifer-tears/lucifer-tears.github.io/tags/hexo/"/>
+    
+      <category term="fancybox" scheme="https://github.com/lucifer-tears/lucifer-tears.github.io/tags/fancybox/"/>
+    
+      <category term="动态图片" scheme="https://github.com/lucifer-tears/lucifer-tears.github.io/tags/%E5%8A%A8%E6%80%81%E5%9B%BE%E7%89%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>markdown</title>
+    <link href="https://github.com/lucifer-tears/lucifer-tears.github.io/2016/09/21/markdown/"/>
+    <id>https://github.com/lucifer-tears/lucifer-tears.github.io/2016/09/21/markdown/</id>
+    <published>2016-09-21T12:14:31.000Z</published>
+    <updated>2016-09-22T08:56:10.179Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Markdown简介语言的学习和使用"><a href="#Markdown简介语言的学习和使用" class="headerlink" title="Markdown简介语言的学习和使用"></a>Markdown简介语言的学习和使用</h1><h2 id="强调"><a href="#强调" class="headerlink" title="强调"></a>强调</h2><p>星号与下划线都可以，单是斜体，双是粗体，符号可跨行，符号可加空格</p>
+<p>例如：<br>**粗体（双星号）**<br>__粗体（双下划线）__<br>*斜体（单左星号）<br>斜体（单右星号）*<br>_斜体（单下划线）_</p>
+<p>结果：<br><strong>粗体（双星号）</strong><br><strong>粗体（双下划线）</strong><br><em>斜体（单左星号）<br>斜体（单右星号）</em><br><em>斜体（单下划线）</em></p>
+<h2 id="分割线"><a href="#分割线" class="headerlink" title="分割线"></a>分割线</h2><p>三个或更多-_*，必须单独一行，可含空格（三符号分割线前必须空行，否则会与小标题冲突）</p>
+<hr>
+<h2 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h2><p>翻译成html就是<blockquote></blockquote>，符号后的空格可不要，用&gt;表示</p>
+<p>例如：<br>> 引用</p>
+<p>结果：</p>
+<blockquote>
+<p>引用（一级&gt;）</p>
+</blockquote>
+<p>多级引用内层符号前的空格必须要</p>
+<p>例如：<br>>引用<br> >>引用中的引用</p>
+<p>结果：</p>
+<blockquote>
+<p>引用（1级&gt;）</p>
+<blockquote>
+<p>引用中的引用（2级&gt;&gt;）</p>
+</blockquote>
+</blockquote>
+<h2 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h2><h3 id="Setext方式"><a href="#Setext方式" class="headerlink" title="Setext方式"></a>Setext方式</h3><p>大标题(三个等号)<br>\===<br>小标题<br>---</p>
+<h3 id="Atx方式"><a href="#Atx方式" class="headerlink" title="Atx方式"></a>Atx方式</h3><p># 一级标题<br>## 二级标题<br>### 三级标题<br>#### 四级标题<br>##### 五级标题<br>###### 六级标题</p>
+<h2 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h2><h3 id="无序单层列表"><a href="#无序单层列表" class="headerlink" title="无序单层列表"></a>无序单层列表</h3><p>符号之后的空格不能少，-+*效果一样，但不能混合使用，因混合是嵌套列表，内容可超长（例如：-  无序列表）</p>
+<ul>
+<li>无序列表</li>
+<li>无序列表</li>
+<li>无序列表</li>
+<li>无序列表，无序列表，无序列表，无序列表，无序列表，无序列表，无序列表，无序列表，无序列表。</li>
+</ul>
+<h3 id="有序列表"><a href="#有序列表" class="headerlink" title="有序列表"></a>有序列表</h3><p>数字不能省略但可无序，点号之后的空格不能少（例如：1. 有序列表）</p>
+<ol>
+<li>有序列表</li>
+<li>有序列表</li>
+<li>有序列表</li>
+<li>有序列表</li>
+</ol>
+<h3 id="多层嵌套"><a href="#多层嵌套" class="headerlink" title="多层嵌套"></a>多层嵌套</h3><p>-+*可循环使用，但符号之后的空格不能少，符号之前的空格也不能少</p>
+<ul>
+<li>一级列表</li>
+<li>一级列表<ul>
+<li>二级列表</li>
+<li>二级列表<ul>
+<li>三级列表</li>
+<li>三级列表</li>
+</ul>
+</li>
+<li>二级列表</li>
+</ul>
+</li>
+<li>一级列表</li>
+<li>一级列表</li>
+</ul>
+<h2 id="链接"><a href="#链接" class="headerlink" title="链接"></a>链接</h2><h3 id="文字链接"><a href="#文字链接" class="headerlink" title="文字链接"></a>文字链接</h3><p>格式：[链接文字内容]（https地址 “放在链接上时介绍（可省略）”）</p>
+<p><a href="https://lucifer-tears.github.io" title="lkk的blog" target="_blank" rel="external">lkk</a></p>
+<h3 id="图片超链"><a href="#图片超链" class="headerlink" title="图片超链"></a>图片超链</h3><p>比文字链接多个感叹号，Tooltips可省略，要设置大小只能借助HTML标记，格式：！[链接文字内容]（https地址 “放在链接上时介绍（可省略）”）</p>
+<p><img src="/lucifer-tears.github.io/img/4.jpg" alt="萌萌的你" title="图片超链接"></p>
+<h3 id="索引超链"><a href="#索引超链" class="headerlink" title="索引超链"></a>索引超链</h3><p>索引，在方括号后添加方括号代码，在通过代码写具体地址。<br>例如：<br>[lkk][1]<br>![lkk][2]</p>
+<p>[1]:<a href="https://lucifer-tears.github.io" target="_blank" rel="external">https://lucifer-tears.github.io</a><br>[2]:/lucifer-tears.github.io/img/4.jpg</p>
+<hr>
+<p><a href="https://lucifer-tears.github.io" target="_blank" rel="external">lkk</a><br><img src="/lucifer-tears.github.io/img/4.jpg" alt="lkk"></p>
+<h3 id="自动链接"><a href="#自动链接" class="headerlink" title="自动链接"></a>自动链接</h3><p>尖括号括起来链接地址</p>
+<p><a href="https://lucifer-tears.github.io" target="_blank" rel="external">https://lucifer-tears.github.io</a></p>
+<h2 id="注释"><a href="#注释" class="headerlink" title="注释"></a>注释</h2><p>&lt;!– 注释 –></p>
+<h2 id="转义字符"><a href="#转义字符" class="headerlink" title="转义字符"></a>转义字符</h2><p>Markdown中的转义字符为\，转义的有：<br>\\ 反斜杠<br>\` 反引号<br>\* 星号<br>\_ 下划线<br>\{\} 大括号<br>\(\) 小括号<br>\# 井号<br>\+ 加号<br>\- 减号<br>\. 英文句号<br>\! 感叹号</p>
+<h1 id="结束语"><a href="#结束语" class="headerlink" title="结束语"></a>结束语</h1><hr>
+<p>以上只是练习了一些基本的。</p>
+<h1 id="参考网址"><a href="#参考网址" class="headerlink" title="参考网址"></a>参考网址</h1><p><a href="http://ibruce.info/2013/11/26/markdown/" target="_blank" rel="external">http://ibruce.info/2013/11/26/markdown/</a> 感谢文章分享</p>
+]]></content>
+    
+    <summary type="html">
+    
+      Markdown简介语言的使用方法和个人联系。
+    
+    </summary>
+    
+    
+      <category term="练习" scheme="https://github.com/lucifer-tears/lucifer-tears.github.io/tags/%E7%BB%83%E4%B9%A0/"/>
+    
+      <category term="Markdown" scheme="https://github.com/lucifer-tears/lucifer-tears.github.io/tags/Markdown/"/>
+    
+      <category term="标记语言" scheme="https://github.com/lucifer-tears/lucifer-tears.github.io/tags/%E6%A0%87%E8%AE%B0%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第一篇blog</title>
+    <link href="https://github.com/lucifer-tears/lucifer-tears.github.io/2016/09/21/first/"/>
+    <id>https://github.com/lucifer-tears/lucifer-tears.github.io/2016/09/21/first/</id>
+    <published>2016-09-21T12:00:21.000Z</published>
+    <updated>2016-09-22T09:05:55.759Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是<strong>我的第一篇文章</strong>，使用<strong>hexo</strong>创建的</p>
+<p>–我的blog开端–<br>练习</p>
+<h1 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h1><p><img src="/lucifer-tears.github.io/img/3.jpg" alt="图片测试"></p>
+]]></content>
+    
+    <summary type="html">
+    
+      第一次正式的blog。
+    
+    </summary>
+    
+    
+      <category term="第一次" scheme="https://github.com/lucifer-tears/lucifer-tears.github.io/tags/%E7%AC%AC%E4%B8%80%E6%AC%A1/"/>
+    
+      <category term="blog" scheme="https://github.com/lucifer-tears/lucifer-tears.github.io/tags/blog/"/>
+    
+      <category term="练习" scheme="https://github.com/lucifer-tears/lucifer-tears.github.io/tags/%E7%BB%83%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://github.com/lucifer-tears/lucifer-tears.github.io/2016/09/19/hello-world/"/>
+    <id>https://github.com/lucifer-tears/lucifer-tears.github.io/2016/09/19/hello-world/</id>
+    <published>2016-09-19T10:06:21.838Z</published>
+    <updated>2016-09-19T10:06:21.838Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
