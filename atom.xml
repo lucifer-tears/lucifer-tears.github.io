@@ -5,7 +5,7 @@
   <link href="/lucifer-tears.github.io/atom.xml" rel="self"/>
   
   <link href="https://github.com/lucifer-tears/lucifer-tears.github.io/"/>
-  <updated>2016-09-22T12:27:40.431Z</updated>
+  <updated>2016-09-22T12:50:15.727Z</updated>
   <id>https://github.com/lucifer-tears/lucifer-tears.github.io/</id>
   
   <author>
@@ -20,10 +20,9 @@
     <link href="https://github.com/lucifer-tears/lucifer-tears.github.io/2016/09/22/hexo-command/"/>
     <id>https://github.com/lucifer-tears/lucifer-tears.github.io/2016/09/22/hexo-command/</id>
     <published>2016-09-22T11:55:18.000Z</published>
-    <updated>2016-09-22T12:27:40.431Z</updated>
+    <updated>2016-09-22T12:50:15.727Z</updated>
     
-    <content type="html"><![CDATA[<a id="more"></a>
-<h1 id="hexo常用命令"><a href="#hexo常用命令" class="headerlink" title="hexo常用命令"></a>hexo常用命令</h1><h2 id="hexo"><a href="#hexo" class="headerlink" title="hexo"></a>hexo</h2><p>npm install hexo -g #安装<br>npm update hexo -g #升级<br>hexo init #初始化</p>
+    <content type="html"><![CDATA[<h1 id="hexo常用命令"><a href="#hexo常用命令" class="headerlink" title="hexo常用命令"></a>hexo常用命令</h1><h2 id="hexo"><a href="#hexo" class="headerlink" title="hexo"></a>hexo</h2><p>npm install hexo -g #安装<br>npm update hexo -g #升级<br>hexo init #初始化</p>
 <h2 id="简写"><a href="#简写" class="headerlink" title="简写"></a>简写</h2><p>hexo n “我的博客” == hexo new “我的博客” #新建文章<br>hexo p == hexo publish<br>hexo g == hexo generate#生成<br>hexo s == hexo server #启动服务预览<br>hexo d == hexo deploy#部署</p>
 <h2 id="服务器"><a href="#服务器" class="headerlink" title="服务器"></a>服务器</h2><p>hexo server #Hexo 会监视文件变动并自动更新，您无须重启服务器。<br>hexo server -s #静态模式<br>hexo server -p 5000 #更改端口<br>hexo server -i 192.168.1.1 #自定义 IP</p>
 <p>hexo clean #清除缓存 网页正常情况下可以忽略此条命令<br>hexo g #生成静态网页<br>hexo d #开始部署</p>
@@ -53,8 +52,7 @@
     
     <summary type="html">
     
-      &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h1 id=&quot;hexo常用命令&quot;&gt;&lt;a href=&quot;#hexo常用命令&quot; class=&quot;headerlink&quot; title=&quot;hexo常用命令&quot;&gt;&lt;/a&gt;hexo常用命令&lt;/h1&gt;&lt;h2 id=&quot;hexo&quot;&gt;&lt;a href=&quot;#hexo&quot; c
+      hexo 常用命令
     
     </summary>
     
