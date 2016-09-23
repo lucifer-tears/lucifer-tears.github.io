@@ -68,7 +68,7 @@
     <link href="https://github.com/lucifer-tears/lucifer-tears.github.io/2016/09/22/fancybox/"/>
     <id>https://github.com/lucifer-tears/lucifer-tears.github.io/2016/09/22/fancybox/</id>
     <published>2016-09-22T08:43:02.000Z</published>
-    <updated>2016-09-23T03:06:25.490Z</updated>
+    <updated>2016-09-23T14:41:57.243Z</updated>
     
     <summary type="html">
     
@@ -88,7 +88,7 @@
     <link href="https://github.com/lucifer-tears/lucifer-tears.github.io/2016/09/21/markdown/"/>
     <id>https://github.com/lucifer-tears/lucifer-tears.github.io/2016/09/21/markdown/</id>
     <published>2016-09-21T12:14:31.000Z</published>
-    <updated>2016-09-22T08:56:10.179Z</updated>
+    <updated>2016-09-23T14:43:26.334Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Markdown简介语言的学习和使用"><a href="#Markdown简介语言的学习和使用" class="headerlink" title="Markdown简介语言的学习和使用"></a>Markdown简介语言的学习和使用</h1><h2 id="强调"><a href="#强调" class="headerlink" title="强调"></a>强调</h2><p>星号与下划线都可以，单是斜体，双是粗体，符号可跨行，符号可加空格</p>
 <p>例如：<br>**粗体（双星号）**<br>__粗体（双下划线）__<br>*斜体（单左星号）<br>斜体（单右星号）*<br>_斜体（单下划线）_</p>
@@ -145,11 +145,11 @@
 <h2 id="链接"><a href="#链接" class="headerlink" title="链接"></a>链接</h2><h3 id="文字链接"><a href="#文字链接" class="headerlink" title="文字链接"></a>文字链接</h3><p>格式：[链接文字内容]（https地址 “放在链接上时介绍（可省略）”）</p>
 <p><a href="https://lucifer-tears.github.io" title="lkk的blog" target="_blank" rel="external">lkk</a></p>
 <h3 id="图片超链"><a href="#图片超链" class="headerlink" title="图片超链"></a>图片超链</h3><p>比文字链接多个感叹号，Tooltips可省略，要设置大小只能借助HTML标记，格式：！[链接文字内容]（https地址 “放在链接上时介绍（可省略）”）</p>
-<p><img src="/lucifer-tears.github.io/img/4.jpg" alt="萌萌的你" title="图片超链接"></p>
+<p><img src="http://odynbq8eo.bkt.clouddn.com/4.jpg" alt="萌萌的你" title="图片超链接"></p>
 <h3 id="索引超链"><a href="#索引超链" class="headerlink" title="索引超链"></a>索引超链</h3><p>索引，在方括号后添加方括号代码，在通过代码写具体地址。<br>例如：<br>[lkk][1]<br>![lkk][2]</p>
-<p>[1]:<a href="https://lucifer-tears.github.io" target="_blank" rel="external">https://lucifer-tears.github.io</a><br>[2]:/lucifer-tears.github.io/img/4.jpg</p>
+<p>[1]:<a href="https://lucifer-tears.github.io" target="_blank" rel="external">https://lucifer-tears.github.io</a><br>[2]:<a href="http://odynbq8eo.bkt.clouddn.com/4.jpg" target="_blank" rel="external">http://odynbq8eo.bkt.clouddn.com/4.jpg</a></p>
 <hr>
-<p><a href="https://lucifer-tears.github.io" target="_blank" rel="external">lkk</a><br><img src="/lucifer-tears.github.io/img/4.jpg" alt="lkk"></p>
+<p><a href="https://lucifer-tears.github.io" target="_blank" rel="external">lkk</a><br><img src="http://odynbq8eo.bkt.clouddn.com/4.jpg" alt="lkk"></p>
 <h3 id="自动链接"><a href="#自动链接" class="headerlink" title="自动链接"></a>自动链接</h3><p>尖括号括起来链接地址</p>
 <p><a href="https://lucifer-tears.github.io" target="_blank" rel="external">https://lucifer-tears.github.io</a></p>
 <h2 id="注释"><a href="#注释" class="headerlink" title="注释"></a>注释</h2><p>&lt;!– 注释 –></p>
@@ -179,11 +179,11 @@
     <link href="https://github.com/lucifer-tears/lucifer-tears.github.io/2016/09/21/first/"/>
     <id>https://github.com/lucifer-tears/lucifer-tears.github.io/2016/09/21/first/</id>
     <published>2016-09-21T12:00:21.000Z</published>
-    <updated>2016-09-22T12:12:08.540Z</updated>
+    <updated>2016-09-23T14:43:24.036Z</updated>
     
     <content type="html"><![CDATA[<p>这是<strong>我的第一篇文章</strong>，使用<strong>hexo</strong>创建的</p>
 <p>–我的blog开端–<br>练习</p>
-<h1 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h1><p><img src="/lucifer-tears.github.io/img/3.jpg" alt="图片测试"></p>
+<h1 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h1><p><img src="http://odynbq8eo.bkt.clouddn.com/3.jpg" alt="图片测试"></p>
 ]]></content>
     
     <summary type="html">
