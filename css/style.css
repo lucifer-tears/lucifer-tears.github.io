@@ -1604,6 +1604,20 @@ section.comment {
   content: "\f09e";
 }
 @media only screen and (min-width: 768px) {
+  .ipaddress {
+    float: left;
+    width: 45%;
+    margin: 0 5% 0 0;
+  }
+}
+@media only screen and (min-width: 1024px) {
+  .ipaddress {
+    width: 100%;
+    float: none;
+    margin: 1em 0 0;
+  }
+}
+@media only screen and (min-width: 768px) {
   .archiveslist {
     width: 45%;
     float: left;
