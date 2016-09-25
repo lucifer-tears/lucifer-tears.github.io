@@ -5,7 +5,7 @@
   <link href="/lucifer-tears.github.io/atom.xml" rel="self"/>
   
   <link href="https://github.com/lucifer-tears/lucifer-tears.github.io/"/>
-  <updated>2016-09-22T12:50:15.727Z</updated>
+  <updated>2016-09-25T13:53:07.130Z</updated>
   <id>https://github.com/lucifer-tears/lucifer-tears.github.io/</id>
   
   <author>
@@ -16,11 +16,45 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>gitpage</title>
+    <link href="https://github.com/lucifer-tears/lucifer-tears.github.io/2016/09/25/gitpage/"/>
+    <id>https://github.com/lucifer-tears/lucifer-tears.github.io/2016/09/25/gitpage/</id>
+    <published>2016-09-25T13:23:14.000Z</published>
+    <updated>2016-09-25T13:53:07.130Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="git动态图"><a href="#git动态图" class="headerlink" title="git动态图"></a>git动态图</h1><hr>
+<h2 id="1"><a href="#1" class="headerlink" title="1"></a>1</h2><p><img src="http://odynbq8eo.bkt.clouddn.com/sucai3.gif" alt=""></p>
+<hr>
+<h2 id="2"><a href="#2" class="headerlink" title="2"></a>2</h2><p><img src="http://odynbq8eo.bkt.clouddn.com/sucai4.gif" alt=""></p>
+<hr>
+<h2 id="3"><a href="#3" class="headerlink" title="3"></a>3</h2><p><img src="http://odynbq8eo.bkt.clouddn.com/sucai1.gif" alt=""></p>
+<hr>
+<h2 id="4"><a href="#4" class="headerlink" title="4"></a>4</h2><p><img src="http://odynbq8eo.bkt.clouddn.com/sucai5.gif" alt=""></p>
+<hr>
+<h2 id="5"><a href="#5" class="headerlink" title="5"></a>5</h2><p><img src="http://odynbq8eo.bkt.clouddn.com/sucai2.gif" alt=""></p>
+]]></content>
+    
+    <summary type="html">
+    
+      git动态图 ，梦幻。
+    
+    </summary>
+    
+      <category term="image" scheme="https://github.com/lucifer-tears/lucifer-tears.github.io/categories/image/"/>
+    
+    
+      <category term="git" scheme="https://github.com/lucifer-tears/lucifer-tears.github.io/tags/git/"/>
+    
+      <category term="picture" scheme="https://github.com/lucifer-tears/lucifer-tears.github.io/tags/picture/"/>
+    
+  </entry>
+  
+  <entry>
     <title>hexo-command</title>
     <link href="https://github.com/lucifer-tears/lucifer-tears.github.io/2016/09/22/hexo-command/"/>
     <id>https://github.com/lucifer-tears/lucifer-tears.github.io/2016/09/22/hexo-command/</id>
     <published>2016-09-22T11:55:18.000Z</published>
-    <updated>2016-09-22T12:50:15.727Z</updated>
+    <updated>2016-09-25T13:54:47.580Z</updated>
     
     <content type="html"><![CDATA[<h1 id="hexo常用命令"><a href="#hexo常用命令" class="headerlink" title="hexo常用命令"></a>hexo常用命令</h1><h2 id="hexo"><a href="#hexo" class="headerlink" title="hexo"></a>hexo</h2><p>npm install hexo -g #安装<br>npm update hexo -g #升级<br>hexo init #初始化</p>
 <h2 id="简写"><a href="#简写" class="headerlink" title="简写"></a>简写</h2><p>hexo n “我的博客” == hexo new “我的博客” #新建文章<br>hexo p == hexo publish<br>hexo g == hexo generate#生成<br>hexo s == hexo server #启动服务预览<br>hexo d == hexo deploy#部署</p>
@@ -56,6 +90,8 @@
     
     </summary>
     
+      <category term="hexo" scheme="https://github.com/lucifer-tears/lucifer-tears.github.io/categories/hexo/"/>
+    
     
       <category term="hexo" scheme="https://github.com/lucifer-tears/lucifer-tears.github.io/tags/hexo/"/>
     
@@ -68,13 +104,15 @@
     <link href="https://github.com/lucifer-tears/lucifer-tears.github.io/2016/09/22/fancybox/"/>
     <id>https://github.com/lucifer-tears/lucifer-tears.github.io/2016/09/22/fancybox/</id>
     <published>2016-09-22T08:43:02.000Z</published>
-    <updated>2016-09-23T14:41:57.243Z</updated>
+    <updated>2016-09-25T13:55:19.717Z</updated>
     
     <summary type="html">
     
       fancybox
     
     </summary>
+    
+      <category term="hexo" scheme="https://github.com/lucifer-tears/lucifer-tears.github.io/categories/hexo/"/>
     
     
       <category term="hexo" scheme="https://github.com/lucifer-tears/lucifer-tears.github.io/tags/hexo/"/>
@@ -88,7 +126,7 @@
     <link href="https://github.com/lucifer-tears/lucifer-tears.github.io/2016/09/21/markdown/"/>
     <id>https://github.com/lucifer-tears/lucifer-tears.github.io/2016/09/21/markdown/</id>
     <published>2016-09-21T12:14:31.000Z</published>
-    <updated>2016-09-23T14:43:26.334Z</updated>
+    <updated>2016-09-25T13:55:54.366Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Markdown简介语言的学习和使用"><a href="#Markdown简介语言的学习和使用" class="headerlink" title="Markdown简介语言的学习和使用"></a>Markdown简介语言的学习和使用</h1><h2 id="强调"><a href="#强调" class="headerlink" title="强调"></a>强调</h2><p>星号与下划线都可以，单是斜体，双是粗体，符号可跨行，符号可加空格</p>
 <p>例如：<br>**粗体（双星号）**<br>__粗体（双下划线）__<br>*斜体（单左星号）<br>斜体（单右星号）*<br>_斜体（单下划线）_</p>
@@ -165,6 +203,8 @@
     
     </summary>
     
+      <category term="language" scheme="https://github.com/lucifer-tears/lucifer-tears.github.io/categories/language/"/>
+    
     
       <category term="练习" scheme="https://github.com/lucifer-tears/lucifer-tears.github.io/tags/%E7%BB%83%E4%B9%A0/"/>
     
@@ -179,7 +219,7 @@
     <link href="https://github.com/lucifer-tears/lucifer-tears.github.io/2016/09/21/first/"/>
     <id>https://github.com/lucifer-tears/lucifer-tears.github.io/2016/09/21/first/</id>
     <published>2016-09-21T12:00:21.000Z</published>
-    <updated>2016-09-23T14:43:24.036Z</updated>
+    <updated>2016-09-25T13:56:41.293Z</updated>
     
     <content type="html"><![CDATA[<p>这是<strong>我的第一篇文章</strong>，使用<strong>hexo</strong>创建的</p>
 <p>–我的blog开端–<br>练习</p>
@@ -191,6 +231,8 @@
       第一次正式的blog。
     
     </summary>
+    
+      <category term="journal" scheme="https://github.com/lucifer-tears/lucifer-tears.github.io/categories/journal/"/>
     
     
       <category term="练习" scheme="https://github.com/lucifer-tears/lucifer-tears.github.io/tags/%E7%BB%83%E4%B9%A0/"/>
