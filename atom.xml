@@ -5,7 +5,7 @@
   <link href="/lucifer-tears.github.io/atom.xml" rel="self"/>
   
   <link href="https://github.com/lucifer-tears/lucifer-tears.github.io/"/>
-  <updated>2016-09-25T13:53:07.130Z</updated>
+  <updated>2017-03-13T15:38:11.029Z</updated>
   <id>https://github.com/lucifer-tears/lucifer-tears.github.io/</id>
   
   <author>
@@ -14,6 +14,51 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>second</title>
+    <link href="https://github.com/lucifer-tears/lucifer-tears.github.io/2017/03/13/second/"/>
+    <id>https://github.com/lucifer-tears/lucifer-tears.github.io/2017/03/13/second/</id>
+    <published>2017-03-13T14:31:14.000Z</published>
+    <updated>2017-03-13T15:38:11.029Z</updated>
+    
+    <content type="html"><![CDATA[<p>#甚是无奈</p>
+<p>##○</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;#甚是无奈&lt;/p&gt;
+&lt;p&gt;##○&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>国庆假期(一)</title>
+    <link href="https://github.com/lucifer-tears/lucifer-tears.github.io/2016/10/01/guoqing/"/>
+    <id>https://github.com/lucifer-tears/lucifer-tears.github.io/2016/10/01/guoqing/</id>
+    <published>2016-10-01T02:36:32.000Z</published>
+    <updated>2016-10-01T05:36:45.188Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="休息"><a href="#休息" class="headerlink" title="休息"></a>休息</h1><h1 id="鼓捣"><a href="#鼓捣" class="headerlink" title="鼓捣"></a>鼓捣</h1><p>家里的台式电脑太老，出现使用问题，无法正常开机，开始借助网络的知识研究，自己研究发现可能是显卡有问题，电容已经爆浆，且风扇不转，也不知道是不是……..</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;休息&quot;&gt;&lt;a href=&quot;#休息&quot; class=&quot;headerlink&quot; title=&quot;休息&quot;&gt;&lt;/a&gt;休息&lt;/h1&gt;&lt;h1 id=&quot;鼓捣&quot;&gt;&lt;a href=&quot;#鼓捣&quot; class=&quot;headerlink&quot; title=&quot;鼓捣&quot;&gt;&lt;/a&gt;鼓捣&lt;/h1&gt;&lt;p&gt;家里的
+    
+    </summary>
+    
+    
+      <category term="练习" scheme="https://github.com/lucifer-tears/lucifer-tears.github.io/tags/%E7%BB%83%E4%B9%A0/"/>
+    
+      <category term="computer" scheme="https://github.com/lucifer-tears/lucifer-tears.github.io/tags/computer/"/>
+    
+  </entry>
   
   <entry>
     <title>gitpage</title>
